@@ -62,6 +62,5 @@ Once installed, just ask your agent:
 
 ## Revenue
 
-This skill is also available on [LarryBrain](https://www.larrybrain.com) as a premium skill.
 
 Built by [@plag](https://warpcast.com/plag) | [@lostpoet](https://twitter.com/lostpoet)
